@@ -1,0 +1,14 @@
+D:\IT\Software\C#\ConsoleApplication\LookAndSay\bin\Debug\net9.0\LookAndSay.exe
+D:\IT\Software\C#\ConsoleApplication\LookAndSay\bin\Debug\net9.0\LookAndSay.deps.json
+D:\IT\Software\C#\ConsoleApplication\LookAndSay\bin\Debug\net9.0\LookAndSay.runtimeconfig.json
+D:\IT\Software\C#\ConsoleApplication\LookAndSay\bin\Debug\net9.0\LookAndSay.dll
+D:\IT\Software\C#\ConsoleApplication\LookAndSay\bin\Debug\net9.0\LookAndSay.pdb
+D:\IT\Software\C#\ConsoleApplication\LookAndSay\obj\Debug\net9.0\LookAndSay.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Software\C#\ConsoleApplication\LookAndSay\obj\Debug\net9.0\LookAndSay.AssemblyInfoInputs.cache
+D:\IT\Software\C#\ConsoleApplication\LookAndSay\obj\Debug\net9.0\LookAndSay.AssemblyInfo.cs
+D:\IT\Software\C#\ConsoleApplication\LookAndSay\obj\Debug\net9.0\LookAndSay.csproj.CoreCompileInputs.cache
+D:\IT\Software\C#\ConsoleApplication\LookAndSay\obj\Debug\net9.0\LookAndSay.dll
+D:\IT\Software\C#\ConsoleApplication\LookAndSay\obj\Debug\net9.0\refint\LookAndSay.dll
+D:\IT\Software\C#\ConsoleApplication\LookAndSay\obj\Debug\net9.0\LookAndSay.pdb
+D:\IT\Software\C#\ConsoleApplication\LookAndSay\obj\Debug\net9.0\LookAndSay.genruntimeconfig.cache
+D:\IT\Software\C#\ConsoleApplication\LookAndSay\obj\Debug\net9.0\ref\LookAndSay.dll
